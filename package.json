@@ -1,0 +1,19 @@
+{
+  "name": "xiaopangzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "uglify": "^0.1.5",
+    "gulp-sequence": "^0.4.6",
+    "gulp-server": "^0.1.0",
+    "gulp-connect": "^5.0.0"
+  }
+}
